@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3bdd192d38d418342ac0f5fde126123d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Settings: {instanceID: 0}
+  - Exit_button: {fileID: 3432362520476551092, guid: 47f13e6f54801e74ebfbd36de17c1aca,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
