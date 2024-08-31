@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
-public class DialogTest : MonoBehaviour
+public class DialogMgr : MonoBehaviour
 {
     
 	[SerializeField]

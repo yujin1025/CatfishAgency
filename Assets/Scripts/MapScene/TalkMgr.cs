@@ -72,7 +72,7 @@ public class TalkMgr : MonoBehaviour
         talkData.Add(11000, new string[] { RandomScript() });
         talkData.Add(12000, new string[] { RandomScript() });
 
-        //퀘스트용 대화(obj id + quest id + questIndex(순서번호))
+        //퀘스트용 대화(obj id + quest id)
 
         talkData.Add(1000 + 10, new string[] 
         {
